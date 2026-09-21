@@ -8,20 +8,26 @@ The upstream `docusaurus/docs` tree contains 353 files:
 - `snippets`: 56
 - root: 3
 
-GitHub-synchronized translations: **73/353**.
+GitHub-synchronized translations: **84/353**.
 
 Cloud documentation status: **23/23 translated and synchronized**.
 
 Latest additions:
-- `cms/api/document-service/fields.md`
-- `cms/api/document-service/filters.md`
-- `cms/api/document-service/locale.md`
-- `cms/api/document-service/middlewares.md`
-- `cms/api/document-service/populate.md`
-- `snippets/id-in-responses.md`
+- `cms/api/document-service/sort-pagination.md`
+- `cms/api/document-service/status.md`
+- `cms/api/content-api.md`
+- `cms/api/document.md`
+- `cms/api/query-engine.md`
+- `cms/api/entity-service.md`
+- `snippets/entity-query-knex.md`
+- `snippets/backend-custom-intro-crosslink.md`
+- `snippets/consider-document-service.md`
+- `snippets/query-engine-prereqs.md`
+- `snippets/entity-service-deprecated.md`
 
 Large-file lossless synchronization queue:
 - `cms/quick-start.md`
 - `cms/installation/docker.md`
+- `cms/api/document-service.md`
 
 Remaining upstream files are not represented as translated until their bilingual files are actually synchronized.
