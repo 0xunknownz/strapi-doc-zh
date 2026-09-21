@@ -2,22 +2,19 @@
 
 Upstream snapshot: `strapi/documentation@6a71f594f4023fee59d5877757874601b0e45f35`
 
-The upstream `docusaurus/docs` tree contains 353 files:
-- `cloud`: 23
-- `cms`: 271
-- `snippets`: 56
+Upstream files: **353**
+- cloud: 23
+- cms: 271
+- snippets: 56
 - root: 3
 
-GitHub-synchronized translations: **105/353**.
+GitHub-synchronized translations: **107/353**.
 
 Latest additions:
-- `cms/backend-customization.md`
-- `cms/backend-customization/examples.md`
-- `cms/backend-customization/middlewares.md`
-- `cms/backend-customization/policies.md`
-- `snippets/middleware-types.md`
+- `cms/backend-customization/services.md`
+- `cms/backend-customization/requests-responses.md`
 
-Cloud documentation: **23/23**.
+Cloud: **23/23**.
 Query Engine API: complete.
 
-Large files are counted only after successful lossless synchronization.
+Remaining files are counted only after successful synchronization.
