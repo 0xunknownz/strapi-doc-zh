@@ -11,20 +11,20 @@ Strapi 官方文档的中英文对照翻译项目。
 
 ## 当前 GitHub 已同步
 
-- 总进度：`46/353`
+- 总进度：`51/353`
 - Cloud 文档：`23/23`（已完整覆盖）
-- CMS：基础入门、tokens、Audit Logs、Content History、Data Management、Admin panel、Internationalization、Review Workflows、SSO、Users & Permissions GraphQL API 等
-- Snippets：installation prerequisites、push to GitHub、invoice statuses、supported databases、Docker environment variables
+- CMS：基础入门、核心内容功能、Data Management、Environment configuration、tokens、Audit Logs、Internationalization、Review Workflows、SSO 等
+- Snippets：installation prerequisites、push to GitHub、invoice statuses、supported databases、Docker environment variables、sample env
 - 根目录：What's New
 
-> `cms/quick-start.md` 与 `cms/installation/docker.md` 已进入大文件同步队列。
+> `cms/quick-start.md` 与 `cms/installation/docker.md` 仍在大文件同步队列。
 
 ## 翻译原则
 
-1. 产品名、框架名、库名、协议名和缩写（例如 Strapi、Node.js、Next.js、GraphQL、REST、API、CMS）保留英文。
-2. 与 Strapi UI 一致的功能名称（例如 Content Manager、Content-Type Builder、Draft & Publish、Strapi Cloud）优先保留官方英文。
-3. 命令、文件名、环境变量、代码、URL、API 路径保持原样并使用 Markdown 代码格式。
+1. 产品名、框架名、库名、协议名和缩写保留英文。
+2. Strapi UI 功能名称优先保留官方英文。
+3. 命令、文件名、环境变量、代码、URL、API 路径保持原样。
 4. 中文与英文、数字之间保留一个半角空格。
-5. 译文追求技术文档中文表达，不逐词硬译，不引入原文没有的技术结论。
+5. 译文追求自然、专业的技术中文，不逐词硬译。
 
 详见 `TRANSLATION_GUIDE.md` 与 `GLOSSARY.md`。
