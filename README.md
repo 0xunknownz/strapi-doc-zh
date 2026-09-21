@@ -11,9 +11,9 @@ Strapi 官方文档的中英文对照翻译项目。
 
 ## 当前 GitHub 已同步
 
-- 总进度：`42/353`
+- 总进度：`46/353`
 - Cloud 文档：`23/23`（已完整覆盖）
-- CMS：基础入门 + Admin tokens / API Tokens / Audit Logs / Content History / Data Management / Review Workflows / SSO
+- CMS：基础入门、tokens、Audit Logs、Content History、Data Management、Admin panel、Internationalization、Review Workflows、SSO、Users & Permissions GraphQL API 等
 - Snippets：installation prerequisites、push to GitHub、invoice statuses、supported databases、Docker environment variables
 - 根目录：What's New
 
