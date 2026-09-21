@@ -8,17 +8,14 @@ The upstream `docusaurus/docs` tree contains 353 files:
 - `snippets`: 56
 - root: 3
 
-GitHub-synchronized translations: **98/353**.
+GitHub-synchronized translations: **100/353**.
 
 Cloud documentation: **23/23**.
 Query Engine API: complete.
 
 Latest additions:
-- `cms/api/rest/locale.md`
-- `cms/api/rest/relations.md`
-- `cms/api/rest/publication-filter.md`
-- `snippets/rest-post-publishes-immediately.md`
-- `snippets/rest-put-publishes-immediately.md`
+- `cms/api/openapi.md`
+- `cms/api/client.md`
 
 Large-file lossless synchronization queue includes:
 - `cms/quick-start.md`
