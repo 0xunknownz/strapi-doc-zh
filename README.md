@@ -11,9 +11,9 @@ Strapi 官方文档的中英文对照翻译项目。
 
 ## 当前 GitHub 已同步
 
-- 总进度：`67/353`
+- 总进度：`73/353`
 - Cloud 文档：`23/23`（已完整覆盖）
-- CMS：入门、发布、Data Management、部署与运行配置，以及 REST API 的 Filters / Populate & Select / Sort & Pagination / Status / Upload 等
+- CMS：入门、发布、Data Management、Deployment、REST API 核心查询与 Upload、Document Service 的 Fields / Filters / Locale / Middlewares / Populate 等
 - 根目录：What's New
 
 > `cms/quick-start.md` 与 `cms/installation/docker.md` 仍在大文件无损同步队列；不会在实际推送前计入完成度。

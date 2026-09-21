@@ -8,20 +8,17 @@ The upstream `docusaurus/docs` tree contains 353 files:
 - `snippets`: 56
 - root: 3
 
-GitHub-synchronized translations: **67/353**.
+GitHub-synchronized translations: **73/353**.
 
 Cloud documentation status: **23/23 translated and synchronized**.
 
 Latest additions:
-- `cms/api/rest/filters.md`
-- `cms/api/rest/populate-select.md`
-- `cms/api/rest/sort-pagination.md`
-- `cms/api/rest/status.md`
-- `cms/api/rest/upload.md`
-- `snippets/qs-intro-full.md`
-- `snippets/qs-for-query-body.md`
-- `snippets/qs-for-query-title.md`
-- `snippets/deep-filtering-blog.md`
+- `cms/api/document-service/fields.md`
+- `cms/api/document-service/filters.md`
+- `cms/api/document-service/locale.md`
+- `cms/api/document-service/middlewares.md`
+- `cms/api/document-service/populate.md`
+- `snippets/id-in-responses.md`
 
 Large-file lossless synchronization queue:
 - `cms/quick-start.md`
