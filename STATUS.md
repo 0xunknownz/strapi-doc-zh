@@ -8,19 +8,16 @@ The upstream `docusaurus/docs` tree contains 353 files:
 - `snippets`: 56
 - root: 3
 
-GitHub-synchronized translations: **100/353**.
+GitHub-synchronized translations: **105/353**.
+
+Latest additions:
+- `cms/backend-customization.md`
+- `cms/backend-customization/examples.md`
+- `cms/backend-customization/middlewares.md`
+- `cms/backend-customization/policies.md`
+- `snippets/middleware-types.md`
 
 Cloud documentation: **23/23**.
 Query Engine API: complete.
 
-Latest additions:
-- `cms/api/openapi.md`
-- `cms/api/client.md`
-
-Large-file lossless synchronization queue includes:
-- `cms/quick-start.md`
-- `cms/installation/docker.md`
-- `cms/api/document-service.md`
-- `cms/api/rest/guides/understanding-populate.md`
-
-Remaining upstream files are not counted until synchronized.
+Large files are counted only after successful lossless synchronization.

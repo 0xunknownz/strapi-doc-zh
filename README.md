@@ -10,11 +10,11 @@ Strapi 官方文档的中英文对照翻译项目。
 
 ## 当前 GitHub 已同步
 
-- 总进度：`100/353`
-- Cloud 文档：`23/23`（已完整覆盖）
+- 总进度：`105/353`
+- Cloud 文档：`23/23`
 - Query Engine API：完整覆盖
-- REST API：核心 parameters / locale / relations / publicationFilter / Upload / query builder 已覆盖
-- API 工具链：Strapi Client 与 OpenAPI generation 已覆盖
+- REST / Document Service 核心查询能力持续覆盖
+- Backend customization：总览、Examples 入口、Middlewares、Policies 已覆盖
 
 > 大文件采用无损分块策略，只有实际推送成功后才计入完成度。
 
