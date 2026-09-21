@@ -5,18 +5,17 @@ Strapi 官方文档的中英文对照翻译项目。
 - 上游仓库：`strapi/documentation`
 - 上游目录：`docusaurus/docs`
 - 上游快照：`main@6a71f594f4023fee59d5877757874601b0e45f35`
-- 快照日期：2026-09-19
 - 当前上游文件数：353
 - 翻译格式：`Original` 原文段落 + `中文译文` 专业中文段落
 
 ## 当前 GitHub 已同步
 
-- 总进度：`84/353`
+- 总进度：`89/353`
 - Cloud 文档：`23/23`（已完整覆盖）
-- CMS：入门、发布、Data Management、Deployment、REST API、Document Service API 核心参数，以及 Content API / Document / Query Engine / Entity Service 概念入口
-- 根目录：What's New
+- Query Engine API：入口 + Single / Bulk / Filtering / Populate / Order & Pagination 已完整覆盖
+- REST API 与 Document Service API 的核心查询参数已覆盖
 
-> `cms/quick-start.md` 与 `cms/installation/docker.md` 仍在大文件无损同步队列；不会在实际推送前计入完成度。
+> `cms/quick-start.md`、`cms/installation/docker.md`、`cms/api/document-service.md` 等大文件仍在无损同步队列，不在实际推送前计入完成度。
 
 ## 翻译原则
 

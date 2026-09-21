@@ -8,22 +8,17 @@ The upstream `docusaurus/docs` tree contains 353 files:
 - `snippets`: 56
 - root: 3
 
-GitHub-synchronized translations: **84/353**.
+GitHub-synchronized translations: **89/353**.
 
 Cloud documentation status: **23/23 translated and synchronized**.
+Query Engine API section status: **entry page + all 5 child reference pages synchronized**.
 
 Latest additions:
-- `cms/api/document-service/sort-pagination.md`
-- `cms/api/document-service/status.md`
-- `cms/api/content-api.md`
-- `cms/api/document.md`
-- `cms/api/query-engine.md`
-- `cms/api/entity-service.md`
-- `snippets/entity-query-knex.md`
-- `snippets/backend-custom-intro-crosslink.md`
-- `snippets/consider-document-service.md`
-- `snippets/query-engine-prereqs.md`
-- `snippets/entity-service-deprecated.md`
+- `cms/api/query-engine/single-operations.md`
+- `cms/api/query-engine/bulk-operations.md`
+- `cms/api/query-engine/filtering.md`
+- `cms/api/query-engine/populating.md`
+- `cms/api/query-engine/order-pagination.md`
 
 Large-file lossless synchronization queue:
 - `cms/quick-start.md`
