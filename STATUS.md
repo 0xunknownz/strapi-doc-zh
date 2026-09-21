@@ -9,29 +9,22 @@ The upstream `docusaurus/docs` tree contains 353 files:
 - `snippets`: 56
 - root: 3
 
-GitHub-synchronized translations: **34/353**.
+GitHub-synchronized translations: **42/353**.
 
 Cloud documentation status: **23/23 translated and synchronized**.
 
-CMS synchronized:
-- `docusaurus/docs/cms/intro.md`
-- `docusaurus/docs/cms/installation.md`
-- `docusaurus/docs/cms/installation/cli.md`
-- `docusaurus/docs/cms/getting-started/setting-up-admin-panel.md`
-- `docusaurus/docs/cms/project-structure.md`
+This batch adds:
+- `cms/features/admin-tokens.md`
+- `cms/features/api-tokens.md`
+- `cms/features/audit-logs.md`
+- `cms/features/content-history.md`
+- `cms/features/data-management.md`
+- `cms/features/data-management/transfer-locally.md`
+- `cms/features/review-workflows.md`
+- `cms/features/sso.md`
 
-Root synchronized:
-- `docusaurus/docs/whats-new.md`
-
-Snippets synchronized:
-- `docusaurus/docs/snippets/installation-prerequisites.md`
-- `docusaurus/docs/snippets/push-to-github.md`
-- `docusaurus/docs/snippets/invoices-statuses.md`
-- `docusaurus/docs/snippets/supported-databases.md`
-- `docusaurus/docs/snippets/docker-env-table.md`
-
-Next large files queued for synchronization:
-- `docusaurus/docs/cms/quick-start.md`
-- `docusaurus/docs/cms/installation/docker.md`
+Large-file synchronization queue:
+- `cms/quick-start.md`
+- `cms/installation/docker.md`
 
 Remaining upstream files are not represented as translated until their bilingual files are actually synchronized.
