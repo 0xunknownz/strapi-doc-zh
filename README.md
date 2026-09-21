@@ -11,10 +11,9 @@ Strapi 官方文档的中英文对照翻译项目。
 
 ## 当前 GitHub 已同步
 
-- 总进度：`51/353`
+- 总进度：`58/353`
 - Cloud 文档：`23/23`（已完整覆盖）
-- CMS：基础入门、核心内容功能、Data Management、Environment configuration、tokens、Audit Logs、Internationalization、Review Workflows、SSO 等
-- Snippets：installation prerequisites、push to GitHub、invoice statuses、supported databases、Docker environment variables、sample env
+- CMS：基础入门、内容发布、Data Management、Environment / Cron / Deployment / Database migrations、Billing、Email、tokens、Audit Logs、Internationalization、Review Workflows、SSO 等
 - 根目录：What's New
 
 > `cms/quick-start.md` 与 `cms/installation/docker.md` 仍在大文件同步队列。
