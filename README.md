@@ -10,13 +10,13 @@ Strapi 官方文档的中英文对照翻译项目。
 
 ## 当前 GitHub 已同步
 
-- 总进度：`93/353`
+- 总进度：`98/353`
 - Cloud 文档：`23/23`（已完整覆盖）
 - Query Engine API：完整覆盖
-- REST API：核心 query 参数、Upload、parameters、interactive query builder 与 guides 入口已覆盖
+- REST API：核心 parameters、locale、relations、publicationFilter、Upload、query builder 与 guides 已覆盖
 - Document Service API：主要参数页已覆盖
 
-> 大文件仍采用无损分块策略，只有实际推送成功后才计入进度。
+> 大文件采用无损分块策略，只有实际推送成功后才计入完成度。
 
 ## 翻译原则
 
