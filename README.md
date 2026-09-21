@@ -10,12 +10,13 @@ Strapi 官方文档的中英文对照翻译项目。
 
 ## 当前 GitHub 已同步
 
-- 总进度：`89/353`
+- 总进度：`93/353`
 - Cloud 文档：`23/23`（已完整覆盖）
-- Query Engine API：入口 + Single / Bulk / Filtering / Populate / Order & Pagination 已完整覆盖
-- REST API 与 Document Service API 的核心查询参数已覆盖
+- Query Engine API：完整覆盖
+- REST API：核心 query 参数、Upload、parameters、interactive query builder 与 guides 入口已覆盖
+- Document Service API：主要参数页已覆盖
 
-> `cms/quick-start.md`、`cms/installation/docker.md`、`cms/api/document-service.md` 等大文件仍在无损同步队列，不在实际推送前计入完成度。
+> 大文件仍采用无损分块策略，只有实际推送成功后才计入进度。
 
 ## 翻译原则
 
@@ -24,5 +25,3 @@ Strapi 官方文档的中英文对照翻译项目。
 3. 命令、文件名、环境变量、API 路径和代码保持原样。
 4. 中文与英文、数字之间保留一个半角空格。
 5. 译文采用自然、专业的中文技术文档表达。
-
-详见 `TRANSLATION_GUIDE.md` 与 `GLOSSARY.md`。

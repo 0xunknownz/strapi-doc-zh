@@ -8,21 +8,21 @@ The upstream `docusaurus/docs` tree contains 353 files:
 - `snippets`: 56
 - root: 3
 
-GitHub-synchronized translations: **89/353**.
+GitHub-synchronized translations: **93/353**.
 
-Cloud documentation status: **23/23 translated and synchronized**.
-Query Engine API section status: **entry page + all 5 child reference pages synchronized**.
+Cloud documentation: **23/23**.
+Query Engine API: **entry + all child reference pages complete**.
 
 Latest additions:
-- `cms/api/query-engine/single-operations.md`
-- `cms/api/query-engine/bulk-operations.md`
-- `cms/api/query-engine/filtering.md`
-- `cms/api/query-engine/populating.md`
-- `cms/api/query-engine/order-pagination.md`
+- `cms/api/rest/guides/intro.md`
+- `cms/api/rest/guides/populate-creator-fields.md`
+- `cms/api/rest/interactive-query-builder.md`
+- `cms/api/rest/parameters.md`
 
-Large-file lossless synchronization queue:
+Large-file lossless synchronization queue includes:
 - `cms/quick-start.md`
 - `cms/installation/docker.md`
 - `cms/api/document-service.md`
+- `cms/api/rest/guides/understanding-populate.md`
 
-Remaining upstream files are not represented as translated until their bilingual files are actually synchronized.
+Remaining upstream files are not counted until synchronized.
