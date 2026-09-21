@@ -9,9 +9,9 @@ Strapi 官方文档的中英文对照翻译项目。
 
 ## 当前 GitHub 已同步
 
-- 总进度：`107/353`
+- 总进度：`112/353`
 - Cloud：`23/23`
 - Query Engine API：完整
-- Backend customization：总览、Middlewares、Policies、Services、Requests & Responses 已覆盖
+- Backend customization：基础机制 + Authentication / Routes / Policies / Middlewares cookbook 已覆盖
 
-> 大文件只有在完整无损推送后才计入进度。
+> 大文件只有在完整无损同步后才计入进度。
