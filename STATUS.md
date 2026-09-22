@@ -2,14 +2,15 @@
 
 Upstream snapshot: `strapi/documentation@6a71f594f4023fee59d5877757874601b0e45f35`
 
-GitHub-synchronized translations: **131/353**.
+GitHub-synchronized translations: **138/353**.
 
 Latest additions:
-- `cms/configurations/sso-providers/discord.md`
-- `cms/configurations/sso-providers/github.md`
-- `cms/configurations/sso-providers/google.md`
-- `cms/configurations/sso-providers/keycloak.md`
-- `cms/configurations/sso-providers/microsoft.md`
-- `cms/configurations/sso-providers/okta.md`
+- `cms/configurations.md`
+- `cms/configurations/api.md`
+- `cms/configurations/features.md`
+- `cms/configurations/typescript.md`
+- `cms/configurations/plugins.md`
+- `cms/configurations/guides/access-cast-environment-variables.md`
+- `cms/configurations/guides/access-configuration-values.md`
 
 Remaining files are counted only after successful synchronization.

@@ -9,10 +9,10 @@ Strapi 官方文档的中英文对照翻译项目。
 
 ## 当前 GitHub 已同步
 
-- 总进度：`131/353`
+- 总进度：`138/353`
 - Cloud：`23/23`
 - Query Engine API：完整
 - Backend customization 主干：完整覆盖
-- Admin SSO providers：Discord、GitHub、Google、Keycloak、Microsoft、Okta 已覆盖
+- Configuration：总览、API、Features、TypeScript、Plugins、environment/config access guides 已覆盖
 
 > 只有完整同步成功的文件才计入进度。
