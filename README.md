@@ -9,14 +9,13 @@ Strapi 官方文档的中英文对照翻译项目。
 
 ## 当前 GitHub 已同步
 
-- 总进度：`195/353`
+- 总进度：`199/353`
 - Cloud：`23/23`
 - Query Engine API：完整
 - Backend customization 主干：完整覆盖
 - TypeScript：完整覆盖
 - Deployment guides：完整覆盖
 - Plugin Server API 主干：完整覆盖
-- Plugin Admin API：Hooks、Localization、Fetch client 已覆盖
-- MCP / plugin extension：已覆盖
+- Plugin Admin Panel API：overview、navigation/settings、injection zones、hooks、localization、fetch client 已覆盖
 
 > 只有完整同步成功的文件才计入进度。
