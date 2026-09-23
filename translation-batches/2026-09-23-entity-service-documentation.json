@@ -1,0 +1,67 @@
+{
+  "batch": "2026-09-23-entity-service-documentation",
+  "base_target_commit": "3682d3b3b6783eb7c11868b16e3160d876a7ccfc",
+  "upstream_commit": "d3cbe0c728c53920d40e3963c0a57cca0d68dbeb",
+  "new_translation_files": 2,
+  "scope": "Readable body, headings, descriptions, tables, notices, code examples; MDX presentation wrappers converted for GitHub. No runtime/API compatibility testing. Historical batches are not audited by these checks.",
+  "files": [
+    {
+      "source_path": "docusaurus/docs/cms/api/entity-service/filter.md",
+      "target_path": "docs/cms/api/entity-service/filter.md",
+      "source_commit": "d3cbe0c728c53920d40e3963c0a57cca0d68dbeb",
+      "source_blob_sha": "0ad9545ac04d3e9ef826d7e5ef512546f6e2d070",
+      "target_blob_sha": "ef29243ca10fb486be00fa0cceb1fade2413b621",
+      "semantic_units": 89,
+      "paragraph_pairs": 60,
+      "code_blocks": 26,
+      "checks": {
+        "source_blob_verified": true,
+        "all_extracted_readable_units_present": true,
+        "all_extracted_readable_units_translated": true,
+        "all_code_blocks_byte_identical": true,
+        "cjk_latin_spacing_checked": true
+      },
+      "dependencies": [
+        {
+          "path": "docusaurus/docs/snippets/entity-service-deprecated.md",
+          "blob_sha": "01928c73cf17ec3c178cb2c1508e2661e15649d8"
+        },
+        {
+          "path": "docusaurus/docs/snippets/deep-filtering-blog.md",
+          "blob_sha": "130ad7dbd0e96d1472b3edc226f003b10a2b6b7e"
+        }
+      ]
+    },
+    {
+      "source_path": "docusaurus/docs/cms/plugins/documentation.md",
+      "target_path": "docs/cms/plugins/documentation.md",
+      "source_commit": "d3cbe0c728c53920d40e3963c0a57cca0d68dbeb",
+      "source_blob_sha": "45afc1e90e1c80d9a01fd44bd4c9d691550bceb4",
+      "target_blob_sha": "aab31589dd2eb4dd162950919e78ef4956b4dec6",
+      "semantic_units": 66,
+      "paragraph_pairs": 47,
+      "code_blocks": 8,
+      "checks": {
+        "source_blob_verified": true,
+        "all_extracted_readable_units_present": true,
+        "all_extracted_readable_units_translated": true,
+        "all_code_blocks_byte_identical": true,
+        "cjk_latin_spacing_checked": true
+      },
+      "dependencies": []
+    }
+  ],
+  "registered_coverage": {
+    "before": 206,
+    "after": 208,
+    "denominator": 353,
+    "basis": "Inherited registration count; not a full historical inventory or quality audit."
+  },
+  "totals": {
+    "new_documents": 2,
+    "semantic_units": 155,
+    "paragraph_pairs": 107,
+    "unchanged_code_blocks": 34
+  },
+  "uploaded_blob_shas_verified": true
+}
